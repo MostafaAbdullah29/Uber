@@ -359,7 +359,7 @@ footer {
 
     .main-bar {
         height: 70px;
-        background-color: aqua;
+        background-color: black;
     }
 
     .nav-design {
@@ -367,7 +367,7 @@ footer {
     }
 
     .bar {
-
+        display: block;
         font-size: 2rem;
     }
 
